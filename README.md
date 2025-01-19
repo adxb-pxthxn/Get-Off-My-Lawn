@@ -1,2 +1,2 @@
 # Get-Off-My-Lawn
-Repo for 2024 sem 2 OOP project, being a tower defence game similar to plants v zombies. 
+Repo for 2024 sem 2 OOP project, being a tower defence game similar to plants v zombies. Made with two other great engineers @oliviajaston and @TW-exe for an assesment for the Object Orientated Programming course in 2024. The aim of this assesment was to display knowledge and practical application of object orientated principals, which this program does all the while being a fun game. 
