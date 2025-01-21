@@ -1,0 +1,12 @@
+Summary of changes made to the project that deviated from the project plan:
+
+Reducing number of plants and zombies:
+The number of plants was reduced toreduce complexity, it was decided that a simpler functional program was more
+important than attempting something too complex and not having anything to submit.
+We had 2 types of zombies instead of 3 to show the levels of inheritance but still simpify the program
+
+Grid:
+After learning how to use the SFML library, we realised that the grid was not actually required for tracking the characters.
+However, the grid was still used to implement the character logic and have a backup plan to create a turn based
+game if the UI did not work. The grid was integral for our unit testing as we were then able to integrate the tested 
+behaviours with the SFML files/library. 
